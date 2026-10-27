@@ -1,2 +1,2 @@
 # aulabbacademia.github.io
-Aula BB, academia online de clases individuales para universitarios de Contabilidad, Fiscalidad, Microeconomía y Macroeconomía. Estudiantes de economía, finanzas y contabilidad, marketing, finanzas y contabilidad, administración y gestión pública. 
+Aula BB · Clases online en directo de Contabilidad, Fiscalidad y Gestión financiera para FP, y de Contabilidad, Fiscalidad y Matemáticas financieras para universidad.
