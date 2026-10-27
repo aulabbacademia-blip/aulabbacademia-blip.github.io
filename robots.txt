@@ -1,4 +1,4 @@
-user-agent: *
+User-agent: *
 Allow: /
 
-Sitemap: https://aulabbacademia-blip.github.io/aulabbacademia.github.io/sitemap.xml
+Sitemap: https://aulabbacademia-blip.github.io/sitemap.xml
